@@ -33,7 +33,5 @@ workflows:
         jobs:
             - deploy:
                   filters:
-                      branches:
-                          only: master
                       tags:
                           only: /^v.*/

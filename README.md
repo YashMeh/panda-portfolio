@@ -29,7 +29,10 @@ panda config.json
 ```
 
 - Get your single page portfolio as index.html.
-- Publish on github.
+
+## Publishing
+
+In case you want to publish your website to your github pages as <i>username.github.io</i> we recommend you checkout our inbuilt feature where you only need to give your credentials and we will automatically deploy it to your github page.
 
 ## Alternate Method
 
@@ -62,7 +65,7 @@ panda config.json
 
 ## Demo
 
-![screengif](images/pandatuts.gif)
+![screengif](https://raw.githubusercontent.com/YashMeh/panda-portfolio/master/images/pandatuts.gif)
 
 ## Example
 
